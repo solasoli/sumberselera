@@ -1,0 +1,65 @@
+/*
+ Theme Name:     twentysixteen Child Theme
+ Theme URI:      http://tropicalup.com
+ Description:    A bare-bones child theme for use with twentysixteen Theme from <a href="https://wordpress.org/">Wordpress</a>. To use this Child Theme, you must have <a href="https://wordpress.org/themes/twentysixteen/">twentysixteen</a> parent theme installed.
+ Author:         Joep van der Poel
+ Author URI:     http://tropicalup.com/
+ Template:       twentysixteen
+ Version:        1.0.0
+*/
+ 
+/* Add Custom CSS after this line */
+
+body {
+	background: #fff;
+}
+
+.site-header {
+    	padding-top: 0em;
+    	padding-right: 4.5455%;
+    	padding-bottom: 0em;
+    	padding-left: 4.5455%;
+}
+
+.site {
+	margin: 0px;
+}
+
+ .entry-header {
+	display: none;
+} 
+
+/* .widget {
+	border-top: 0px;
+} */
+
+@media screen and (min-width: 44.375em) {
+	body:not(.custom-background-image):before,
+	body:not(.custom-background-image):after {
+		background: inherit;
+		content: "";
+		display: block;
+		height: 0px;
+		left: 0;
+		position: relative;
+		width: 100%;
+		z-index: 99;
+	}
+
+.site-main {
+    margin-bottom: 0px;
+}
+
+.entry-content a, .entry-summary a, .taxonomy-description a, .logged-in-as a, .comment-content a, .pingback .comment-body > a, .textwidget a, .entry-footer a:hover, .site-info a:hover {
+    box-shadow: 0 0px 0 0 currentColor;
+}
+
+.entry-footer {
+position: relative; 
+text-align: right;
+}
+
+.form_ {
+align: middle;
+position: relative;
+}

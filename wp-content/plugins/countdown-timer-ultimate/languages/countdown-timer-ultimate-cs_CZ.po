@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Countdown Timer Ultimate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-22 04:26+0000\n"
+"PO-Revision-Date: 2016-10-22 04:27+0000\n"
+"Last-Translator: plugin <janak@sptechnolab.com>\n"
+"Language-Team: Czech\n"
+"Language: cs-CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/wpcdt-post-types.php:21 includes/wpcdt-post-types.php:22
+msgid "WP Countdown Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:23
+msgid "Add Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:24
+msgid "Add New Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:25
+msgid "Edit Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:26
+msgid "New Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:27
+msgid "View Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:28
+msgid "Search Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:29
+msgid "No Timer Found"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:30
+msgid "No Timer Found in Trash"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:32
+msgid "Countdown Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:66 includes/wpcdt-post-types.php:69
+msgid "Timer updated."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:67
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:68
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:70
+#, php-format
+msgid "Timer restored to revision from %s"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:71
+msgid "Timer published."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:72
+msgid "Timer saved."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:73
+msgid "Timer submitted."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:74
+#, php-format
+msgid "Timer scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:75
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:76
+msgid "Timer draft updated."
+msgstr ""
+
+#: includes/class-wpcdt-script.php:58
+#: includes/admin/metabox/wpcdt-sett-metabox.php:123
+msgid "Days"
+msgstr "janak"
+
+#: includes/class-wpcdt-script.php:59
+#: includes/admin/metabox/wpcdt-sett-metabox.php:128
+msgid "Hours"
+msgstr "anoop"
+
+#: includes/class-wpcdt-script.php:60
+#: includes/admin/metabox/wpcdt-sett-metabox.php:135
+msgid "Minutes"
+msgstr "jagir"
+
+#: includes/class-wpcdt-script.php:61
+#: includes/admin/metabox/wpcdt-sett-metabox.php:140
+msgid "Seconds"
+msgstr "pratik"
+
+#: includes/admin/class-wpcdt-admin.php:38
+msgid "WP Countdown Timer Settings - Settings"
+msgstr ""
+
+#: includes/admin/class-wpcdt-admin.php:108
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:64
+msgid "Expiry Date"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:74
+msgid "Choose Animation"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:87
+msgid "Circle Width"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:98
+msgid "Background Width"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:107
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:115
+msgid "Foreground Color"
+msgstr ""
+
+#. Name of the plugin
+msgid "Countdown Timer Ultimate"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easy to add and display timer."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""
